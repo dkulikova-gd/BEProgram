@@ -20,7 +20,7 @@
 		<java.version>1.8</java.version>
 		<hibernate.version>5.2.17.Final</hibernate.version>
 		<hibernate.validator>5.4.1.Final</hibernate.validator>
-		<spring.version>5.1.0.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 
 <!--			<wildfly-home>/Users/dkulikova/IdeaProjects/wildfly-19.0.0.Final</wildfly-home>-->
 <!--			<wildfly-hostname>127.0.0.1</wildfly-hostname>-->
